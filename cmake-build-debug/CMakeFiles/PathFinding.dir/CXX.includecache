@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kei98/CLionProjects/Datos/PathFinding/Graph.cpp
+Graph.h
+/home/kei98/CLionProjects/Datos/PathFinding/Graph.h
+
+/home/kei98/CLionProjects/Datos/PathFinding/Graph.h
+iostream
+-
+list
+-
+
